@@ -1,4 +1,5 @@
 In this section you can find my first big python project. 
+A university project in which I had to handle sensor data transmitted by a medical device.
 I took me a about 5 months to program.
 It's purpose is to collect and process data sent by a wrist watch to a TCP-Server via Bluetooth LE.
 Multiple functionalities are included in this program:
